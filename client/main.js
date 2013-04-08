@@ -1,1 +1,2 @@
-postsHandle = Meteor.subscribeWithPagination('posts', 10);
+newPostsHandle = Meteor.subscribeWithPagination('newPosts', 10);
+bestPostsHandle = Meteor.subscribeWithPagination('bestPosts', 10);
