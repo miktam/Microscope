@@ -1,0 +1,1 @@
+postsHandle = Meteor.subscribeWithPagination('posts', 10);
