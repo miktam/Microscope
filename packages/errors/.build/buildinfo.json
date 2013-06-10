@@ -1,0 +1,49 @@
+{
+  "builtBy": "meteor/8",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/package.js": "e4787787e7746f4ae053a814619f9c53102d5086",
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/errors.js": "51b42aa4599e0ec72d188ba51775730ef77d50ca",
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/errors_list.html": "ad64f39437cd7e2bdfbd15423792a06578fd046f",
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/errors_list.js": "92f6ab51cf960e107237145de9ee3da7708e46f2"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/package.js": "e4787787e7746f4ae053a814619f9c53102d5086"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/package.js": "e4787787e7746f4ae053a814619f9c53102d5086",
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/errors_tests.js": "c4e46afc91a155dc5902c564f9ffed8a72a1b992"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/package.js": "e4787787e7746f4ae053a814619f9c53102d5086"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors/package.js": "e4787787e7746f4ae053a814619f9c53102d5086"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "errors": "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors",
+    "meteor": "/Users/tom/.meteor/packages/meteor/e3bd161f1e",
+    "minimongo": "/Users/tom/.meteor/packages/minimongo/6eac55ca64",
+    "mongo-livedata": "/Users/tom/.meteor/packages/mongo-livedata/86ae77f282",
+    "templating": "/Users/tom/.meteor/packages/templating/eda4c18e58",
+    "tinytest": "/Users/tom/.meteor/packages/tinytest/8e73fcc6cb",
+    "test-helpers": "/Users/tom/.meteor/packages/test-helpers/28d77c5ba9"
+  },
+  "source": "/Users/tom/Development/DiscoverMeteor/microscope/packages/errors"
+}

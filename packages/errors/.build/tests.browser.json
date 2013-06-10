@@ -1,0 +1,29 @@
+{
+  "format": "unipackage-slice-pre1",
+  "noExports": true,
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "errors"
+    },
+    {
+      "package": "tinytest"
+    },
+    {
+      "package": "test-helpers"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "tests.browser/packages/errorstests.js",
+      "length": 2702,
+      "offset": 0,
+      "servePath": "/packages/errors:tests.js",
+      "sourceMap": "tests.browser/packages/errorstests.js.map"
+    }
+  ]
+}
