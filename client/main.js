@@ -6,6 +6,10 @@ Deps.autorun(function(){
       user_name: Meteor.user().username,
       user_id: Meteor.user()._id,
       user_hash: Meteor.user().intercomHash,
+      widget: {
+        activator: '#Intercom',
+        use_counter: true
+      },
       app_id: "k20iexvc"
     };
     Intercom('boot', intercomSettings);
