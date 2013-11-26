@@ -3,5 +3,9 @@
     {{#each this}}
       {{> postItem}}
     {{/each}}
+    
+    {{#unless allPostsLoaded}}
+      <a class="load-more" href="{{loadMorePath}}">Load more</a>
+    {{/unless}}
   </div>
 </template>
