@@ -8,5 +8,7 @@ Template.header.helpers({
     });
     
     return active && 'active';
-  }
+  },
+  
+  routeOptions: {limit: 3}
 });
