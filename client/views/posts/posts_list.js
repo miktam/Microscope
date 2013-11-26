@@ -7,10 +7,10 @@ Template.postsList.helpers({
   },
   hasMorePosts: function(){
     // as long as we ask for N posts and all N posts showed up, then keep showing the "load more" button
-    return Session.get('postsLimit') == this.count();
+    return postsLimit == this.count();
   },
   loadMoreUrl: function () {
-    var count = Session.get('postsLimit') + 3;
-    return '/' + Session.get('view') + '/' + count;
+    var count = postsLimit + 3;
+    return '/' + postsView + '/' + count;
   }
 });
