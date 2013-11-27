@@ -1,6 +1,5 @@
-Meteor.publish('posts', function(view, limit){
-  var parameters = getParameters(view, limit);
-  return Posts.find({}, parameters);
+Meteor.publish('posts', function(options){
+  return Posts.find({}, options);
 });
 
 Meteor.publish('newPosts', function(limit) {
