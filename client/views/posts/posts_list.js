@@ -1,5 +1,6 @@
 Template.postsList.helpers({
   postsWithRank: function() {
+    this.rewind();
     return this.map(function(post, index, cursor) {
       post._rank = index;
       return post;
