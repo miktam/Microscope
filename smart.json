@@ -2,6 +2,8 @@
   "packages": {
     "iron-router": {},
     "accounts-ui-bootstrap-dropdown": {},
-    "spin": {}
+    "spin": {},
+    "nprogress": {},
+    "iron-router-progress": {}
   }
 }
