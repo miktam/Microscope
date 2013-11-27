@@ -11,4 +11,4 @@ spin
 accounts-ui-bootstrap-dropdown
 accounts-password
 spin
-nprogress
+iron-router-progress
