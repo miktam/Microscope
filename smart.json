@@ -1,6 +1,13 @@
 {
   "packages": {
-    "iron-router": {},
+    "iron-router": {
+      "git": "https://github.com/EventedMind/iron-router.git",
+      "branch": "blaze-integration"
+    },
+    "blaze-layout": {
+      "git": "https://github.com/EventedMind/blaze-layout.git",
+      "branch": "devel"
+    },
     "accounts-ui-bootstrap-dropdown": {},
     "spin": {},
     "iron-router-progress": {}
