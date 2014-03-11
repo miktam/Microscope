@@ -18,12 +18,12 @@
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
         "branch": "blaze-integration",
-        "commit": "3d0f3a504ed891f80325f5336eb861570af19c10"
+        "commit": "f8ffd44bceacc6a55f4ebcc218c072f5a18138b4"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
         "branch": "devel",
-        "commit": "b3a0d4f4c5cde42af06a125137d7abe9edef899c"
+        "commit": "f52f416d6277f27b11832355298553e46b8cc6fd"
       },
       "accounts-ui-bootstrap-dropdown": {
         "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
